@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "about": "About Us",
+    "contact": "Contact Us",
+    "services": "Services",
+    "switchLanguage": "العربية",
+    "startYourProject": "Start Your Project",
+    "ourService": "Our Services",
+    "ourProjects": "Our Projects"
+  },
+
+  "home": {
+    "heroTitle": "Crafting the Future of Industrial Automation",
+    "heroSubtitle": "We provide premium, state-of-the-art manufacturing and automation solutions tailored for modern factories.",
+    "ctaStart": "Get Started",
+    "ctaLearn": "Learn More"
+  },
+  "hero": {
+    "title": "Design & Delivery of",
+    "titlePart2": "Your Villa Interiors",
+    "titlePart3": "Made Simple",
+    "description": "Kitchens, closets, doors, and premium uPVC windows designed, ",
+    "description1": "manufactured, and installed by one trusted Emirati factory.",
+    "cta": "Get Your FREE 3D Design Now"
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "subtitle": "We provide all type of modular ",
+    "subtitle1": "KITCHEN, CLOSET, DOOR Services ",
+    "maskText": "OUR INTERIOR SOLUTIONS",
+    "stage1Title": "Design & Customization",
+    "stage1Desc": "Crafting bespoke solutions tailored for modern villas.",
+    "stage3Desc": "Designed, manufactured, and installed by one trusted Emirati factory.",
+    "kitchens": "Kitchens",
+    "kitchensDesc": "Designed for daily use, built for long-term performance",
+    "wardrobes": "Wardrobes & Closets",
+    "wardrobesDesc": "Structured storage that stays organized over time",
+    "doors": "Wooden Doors",
+    "doorsDesc": "Precise finishes that hold up with everyday use",
+    "windows": "Premium Window Systems",
+    "windowsDesc": "Sealed systems for better comfort and control",
+    "modularSubtitle": "We provide all type of modular",
+    "kitchensClosetsDoorsServices": "KITCHEN, CLOSET, DOOR Services",
+    "exploreProjects": "Explore Our Projects",
+    "solutionsCards": {
+      "kitchens": {
+        "title": "Kitchens",
+        "description": "Designed for daily use, built for long-term performance"
+      },
+      "wardrobes": {
+        "title": "Wardrobes & Closets",
+        "description": "Structured storage that stays organized over time"
+      },
+      "doors": {
+        "title": "Wooden Doors",
+        "description": "Precise finishes that hold up with everyday use"
+      },
+      "windows": {
+        "title": "Premium Window Systems",
+        "description": "Sealed systems for better comfort and control"
+      }
+    }
+  },
+
+  "approach": {
+    "whyDifficultTitle": "Why Villa Interior Projects Often Become Difficult?",
+    "whyDifficultDesc": "When interior systems are sourced from multiple suppliers, the process becomes fragmented, making it difficult to coordinate a consistent final result. The lack of commitment leads to:",
+    "problemQuality": "Quality Problems",
+    "problemDelays": "Delays during execution",
+    "problemValue": "Poor value for money",
+    "problemSupport": "Weak after-sales support",
+    "idealFactoryApproach": "The Ideal Factory\nApproach",
+    "item1Title": "Multiple Interior Systems",
+    "item1Desc": "One Factory. Kitchens, wardrobes, doors, and premium window systems—manufactured together in one facility for coordinated villa interiors.",
+    "item2Title": "Coordinated Design",
+    "item2Desc": "Our designers ensure that kitchens, closets, doors, & window systems complement each other in style & proportion.",
+    "item3Title": "After-Sales Support & Maintenance",
+    "item3Desc": "Our team installs every product with precision to ensure the final result reflects the original design.",
+    "item4Title": "Precision Manufacturing & Installation",
+    "item4Desc": "Manufactured in-house. Installed with precision. One accountable team.",
+    "ctaSectionTitle": "Design Your Villa Interiors",
+    "ctaSectionTitleHighlight": "Before Spending a Dirham",
+    "ctaSectionDesc": "Upload your villa floor plan and collaborate live with our designers to create a full 3D interior concept within an hour.",
+    "featureNoGuessing": "No guessing",
+    "featureNoRedesigns": "No Expensive Redesigns",
+    "featureNoDelays": "No Delays",
+    "ctaButton": "Start Your 3D Interior Design",
+    "card1Label": "Upload Floor Plan",
+    "card2Label": "Get 3D Design",
+    "card3Label": "Live Design Edit"
+  },
+  "projects": {
+    "title": "Designed. Built. Delivered",
+    "filterAll": "All",
+    "filterKitchen": "Kitchen",
+    "filterDoor": "Door",
+    "filterCloset": "Closet",
+    "filterWindows": "uPVC Windows",
+    "exploreProjects": "Explore Projects"
+  },
+  "whyChoose": {
+    "title": "Why Villa Owners Choose",
+    "titleHighlight": "Ideal Factory",
+    "feature1": "One factory for kitchens, wardrobes, doors, and premium window systems.",
+    "feature2": "Fast 3D design before production",
+    "feature3": "Precision manufacturing with European machinery",
+    "feature4": "Solutions designed for UAE villas",
+    "ctaButton": "Start Your Free 3D Design"
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "title": "What They're Talking About",
+    "titleHighlight": "Ideal Factory?",
+    "customer": "Customer",
+    "review1Name": "Sarah Johnson",
+    "review1Text": "An amazing experience from start to finish. The team was highly professional and provided an accurate 3D design before execution began. The new kitchen exceeded our expectations completely.",
+    "review2Name": "Alex Roke",
+    "review2Text": "Exceptional manufacturing quality and the installation was precise and well-organized. One team handled everything from design to delivery, saving us a great deal of time and effort."
+  },
+  "contact": {
+    "label": "Get in touch",
+    "title": "We Love to Hear From You",
+    "heading": "Let's discuss your project!",
+    "desc": "Contact us today and learn more about how our interior fit out & custom manufacturing services can bring your ideas to life.",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "phonePlaceholder": "Phone Number",
+    "messagePlaceholder": "Message",
+    "submitButton": "Submit"
+  },
+  "footer": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "contact": "Contact",
+    "testimonials": "Testimonials",
+    "projects": "Projects",
+    "desc": "Our kitchens may not be able to whisk you away to sun kissed foreign shores, but our collection boasts all the quality craftsmanship and style.",
+    "quickLinks": "Quick Links",
+    "explore": "Explore",
+    "linkCloset": "Walk in Closet",
+    "linkWardrobe": "Wardrobe Closet",
+    "linkUKitchen": "U-Shape Kitchen",
+    "linkPantry": "Pantry Kitchen",
+    "linkDoors": "Doors",
+    "rights": "Copyright ©2025 Ideal Factory all rights reserved",
+    "terms": "Terms & Condition",
+    "privacy": "Privacy Policy"
+  }
+}
