@@ -1,0 +1,20 @@
+# Ideal Factory Homepage Assessment
+
+## Tech Stack
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+## Features
+- Responsive Design
+- Component-based Architecture
+- Scroll Animations
+- Optimized Images
+
+## Run Locally
+
+npm install
+npm run dev
+
+## Deployment
+Vercel Link
